@@ -1,7 +1,0 @@
-
-Copy code
-# Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Ignore macOS system files
-.DS_Store
